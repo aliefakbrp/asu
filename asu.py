@@ -3,5 +3,7 @@
 #       return rmse
 # asu=kampret('asu')
 # print(asu)
-asu=input('asu')
-print(asu)
+import streamlit as asu
+asu.text('asu')
+a = asu.text_input('asu')
+asu.write(a)
