@@ -7,3 +7,6 @@ ploty
 matplotlib
 joblib
 scikit-learn
+warning
+graphviz
+urllib
