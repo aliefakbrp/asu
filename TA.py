@@ -1,4 +1,5 @@
 # pip install sklearn
+pip3 install scikit-learn
 import sklearn
 import streamlit as st
 import pandas as pd 
